@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B6B2CAA9-F599-44CC-8695-35A7CCDD73C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguagesAssessmentCSharp/Program.cs">
+    <Files>
+      <File FileName="LanguagesAssessmentCSharp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LanguagesAssessmentCSharp" expanded="True">
+            <Node name="LanguagesAssessmentCSharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LanguagesAssessmentCSharp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

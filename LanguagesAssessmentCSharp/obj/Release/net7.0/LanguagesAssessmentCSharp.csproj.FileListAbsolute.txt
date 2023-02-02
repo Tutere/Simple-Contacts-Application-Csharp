@@ -1,0 +1,15 @@
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/bin/Release/net7.0/LanguagesAssessmentCSharp
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/bin/Release/net7.0/LanguagesAssessmentCSharp.deps.json
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/bin/Release/net7.0/LanguagesAssessmentCSharp.runtimeconfig.json
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/bin/Release/net7.0/LanguagesAssessmentCSharp.dll
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/bin/Release/net7.0/LanguagesAssessmentCSharp.pdb
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.csproj.AssemblyReference.cache
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.AssemblyInfoInputs.cache
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.AssemblyInfo.cs
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.csproj.CoreCompileInputs.cache
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.dll
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/refint/LanguagesAssessmentCSharp.dll
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.pdb
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/LanguagesAssessmentCSharp.genruntimeconfig.cache
+/Users/tuteredurie/Projects/LanguagesAssessmentCSharp/LanguagesAssessmentCSharp/obj/Release/net7.0/ref/LanguagesAssessmentCSharp.dll
